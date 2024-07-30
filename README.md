@@ -13,7 +13,7 @@ Everyone has their pizza preferences. Each of your potential clients has some in
 Each client is **OK** with additional ingredients they neither like nor dislike being present on the pizza. Your task is to choose which ingredients to put on your only pizza type to maximize the number of clients who will visit your pizzeria.
 
 ## Input
-- The first line contains one integer 1 <= C <= 10^5
+- The first line contains one integer $1 \leq C \leq 10^5$
 - The following 2 X C lines describe the client's preferences in the following format
   - First line contains integer $1 \leq L \leq 5$, followed by $L$ names of ingredients a client likes, delimited by spaces.
   - Second line contains integer $0 \leq D \leq 5$, followed by $D$ names of ingredients a client dislikes, delimited by spaces.
